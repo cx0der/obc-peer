@@ -12,7 +12,7 @@ This project contains the core blockchain fabric.
 
 ## Building the project
 
-Assuming you have followed the [development environment getting started instructions](https://github.com/hyperledger-incubator/obc-docs/blob/master/dev-setup/devenv.md)
+Assuming you have followed the [development environment getting started instructions](https://github.com/hyperledger-incubator/obc-dev-env/blob/master/README.md)
 
 To access your VM, run
 ```
